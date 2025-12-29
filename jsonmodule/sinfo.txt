@@ -1,0 +1,1 @@
+{'s1': {'roll_no': 1, 'name': 'Gaurav', 'percentage': 83.5, 'sport': 'Cricket'}, 's2': {'roll_no': 2, 'name': 'Amit', 'percentage': 79.0, 'sport': 'voliball'}, 's3': {'roll_no': 3, 'name': 'Riya', 'percentage': 90.3, 'sport': 'basball'}}
